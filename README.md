@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs involving data truncation during MOVE operations. The `bug.cob` file contains code that attempts to move a string of length 5 into a field intended to hold 100 characters. However, the solution demonstrates how to prevent truncation by ensuring sufficient space. 
